@@ -20,7 +20,15 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+<h3>About Me:</h3>
+<p>
+  <ul>
+    <li>I'm a learning Software Dev Student in Switzerland 🇨🇭, Fribourg & Bern!</li>
+    <li>Not the best at Coding.</li>
+    <li>ADHD and a little Autistic :)</li>
+    <li>Dedicated Worker and really trying to Learn the Ways of the Software Dev :D</li>
+  </ul>
+</p>
 
 
 
