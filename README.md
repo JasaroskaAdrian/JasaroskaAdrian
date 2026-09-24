@@ -3,8 +3,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on eSwiss<br>👯 I’m looking to collaborate on LLM Models<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning System Design and Security<br>💬 Ask me about SQL or PL/SQL<br>⚡ Fun fact The human head weighs 8 pounds
-
+🔭 I’m currently working on eSwiss<br>👯 I’m looking to collaborate on LLM Models<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning System Design and Security<br>💬 Ask me about SQL or PL/SQL<br>⚡ Fun fact: I hate Windows so much
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrian.jasaroska) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrian.jasaroska@gmail.com) 
